@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstAidCardGame</string>
+    <string name="playButton">PLAY</string>
+    <string name="win_dialog_title">CONGRATS!</string>
+    <string name="win_dialog_message">You have completed this level.</string>
+    <string name="lose_dialog_title">UNLUCKY!</string>
+    <string name="lose_dialog_message">You ran out of lives.\nBetter luck next time...</string>
+</resources>
